@@ -45,9 +45,16 @@
 ### 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gulias)
-[![Golden Jackets](https://img.shields.io/badge/Golden_Jackets-FFD700?style=flat&logoColor=black)](https://goldenjacketsbrazil.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@GoldenJacketsBrazil)
 [![Spotify](https://img.shields.io/badge/Podcast-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/show/golden-jackets-brazil)
+
+### 🌍 Golden Jackets Chapters
+
+[![Brazil](https://img.shields.io/badge/🇧🇷_Brazil-FFD700?style=flat&logoColor=black)](https://goldenjacketsbrazil.com)
+[![Poland](https://img.shields.io/badge/🇵🇱_Poland-FFD700?style=flat&logoColor=black)](https://goldenjackets.pl)
+[![UK](https://img.shields.io/badge/🇬🇧_UK-FFD700?style=flat&logoColor=black)](https://goldenjackets.co.uk)
+[![Chile](https://img.shields.io/badge/🇨🇱_Chile-FFD700?style=flat&logoColor=black)](https://goldenjackets.cl)
+[![Global](https://img.shields.io/badge/🌍_Global-B8860B?style=flat&logoColor=white)](https://global.goldenjacketsbrazil.com)
 
 ---
 
