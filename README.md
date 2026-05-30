@@ -50,11 +50,11 @@
 
 ### 🌍 Golden Jackets Chapters
 
+[![Global](https://img.shields.io/badge/🌍_Global-B8860B?style=flat&logoColor=white)](https://global.goldenjacketsbrazil.com)
 [![Brazil](https://img.shields.io/badge/🇧🇷_Brazil-FFD700?style=flat&logoColor=black)](https://goldenjacketsbrazil.com)
-[![Poland](https://img.shields.io/badge/🇵🇱_Poland-FFD700?style=flat&logoColor=black)](https://goldenjackets.pl)
 [![UK](https://img.shields.io/badge/🇬🇧_UK-FFD700?style=flat&logoColor=black)](https://goldenjackets.co.uk)
 [![Chile](https://img.shields.io/badge/🇨🇱_Chile-FFD700?style=flat&logoColor=black)](https://goldenjackets.cl)
-[![Global](https://img.shields.io/badge/🌍_Global-B8860B?style=flat&logoColor=white)](https://global.goldenjacketsbrazil.com)
+[![Poland](https://img.shields.io/badge/🇵🇱_Poland-FFD700?style=flat&logoColor=black)](https://goldenjackets.pl)
 
 ---
 
