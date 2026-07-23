@@ -1,12 +1,12 @@
 👋 Hi, I'm Ricardo Gulias
 
-🧥 **Golden Jacket** — All active AWS certifications | **Founder & Global Lead** @ [Golden Jackets](https://goldenjacketsbrazil.com) | **AWStronaut** | **Kiro Ambassador**
+🧥 **Golden Jacket** — All active AWS certifications | **Founder & Global Lead** @ [Golden Jackets](https://global.goldenjacketsbrazil.com) | **AWStronaut** | **Kiro Ambassador**
 
 ---
 
 ### 🚀 What I'm building
 
-- 🌍 **[Golden Jackets](https://goldenjacketsbrazil.com)** — Global community celebrating professionals with all AWS certifications. 155+ members across 17 countries, 13 active chapters.
+- 🌍 **[Golden Jackets](https://global.goldenjacketsbrazil.com)** — Global community celebrating professionals with all AWS certifications. 155+ members across 17 countries, 13 active chapters.
 - 🏗️ **[Kiro AWS Skills](https://github.com/ricardogulias/kiro-aws-skills)** — 8 Well-Architected skills + 2 steering files for Kiro CLI
 - 💰 **[FinBot](https://github.com/goldenjackets-community/finbot)** — AI-powered personal finance assistant on WhatsApp (Lambda, DynamoDB, Bedrock, Terraform)
 - 🏗️ **Serverless architectures** — Production systems with Lambda, DynamoDB, CloudFront, Cognito, API Gateway, Bedrock
@@ -26,7 +26,7 @@
 - 🟣 Kiro Ambassador
 - ☁️ 12x AWS Certified (SA Pro, DevOps Pro, Security, Networking, Data Analytics, ML, GenAI Pro, and more)
 - 🌐 Founder of the largest Golden Jacket community globally (155+ members, 17 countries, 13 active chapters)
-- 🎙️ Podcast host — Golden Jackets Brazil
+- 🎙️ Podcast host — Golden Jackets Brazil Podcast
 - 👨‍🏫 Community Mentor — Contributors Program
 
 ### 🛠️ Tech Stack
