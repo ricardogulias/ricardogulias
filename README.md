@@ -6,7 +6,7 @@
 
 ### 🚀 What I'm building
 
-- 🌍 **[Golden Jackets](https://global.goldenjacketsbrazil.com)** — Global community celebrating professionals with all AWS certifications. 155+ members across 17 countries, 13 active chapters.
+- 🌍 **[Golden Jackets](https://global.goldenjacketsbrazil.com)** — Global community celebrating professionals with all AWS certifications. 170+ members across 18 countries, 15 active chapters.
 - 🏗️ **[Kiro AWS Skills](https://github.com/ricardogulias/kiro-aws-skills)** — 8 Well-Architected skills + 2 steering files for Kiro CLI
 - 💰 **[FinBot](https://github.com/goldenjackets-community/finbot)** — AI-powered personal finance assistant on WhatsApp (Lambda, DynamoDB, Bedrock, Terraform)
 - 🏗️ **Serverless architectures** — Production systems with Lambda, DynamoDB, CloudFront, Cognito, API Gateway, Bedrock
@@ -25,7 +25,7 @@
 - 🚀 AWStronaut
 - 🟣 Kiro Ambassador
 - ☁️ 12x AWS Certified (SA Pro, DevOps Pro, Security, Networking, Data Analytics, ML, GenAI Pro, and more)
-- 🌐 Founder of the largest Golden Jacket community globally (155+ members, 17 countries, 13 active chapters)
+- 🌐 Founder of the largest Golden Jacket community globally (170+ members, 18 countries, 15 active chapters)
 - 🎙️ Podcast host — Golden Jackets Brazil Podcast
 - 👨‍🏫 Community Mentor — Contributors Program
 
@@ -50,20 +50,23 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@GoldenJacketsBrazil)
 [![Spotify](https://img.shields.io/badge/Podcast-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/show/golden-jackets-brazil)
 
-### 🌍 Golden Jackets Chapters (13 active)
+### 🌍 Golden Jackets Chapters (15 active)
 
 [![Global](https://img.shields.io/badge/🌍_Global-B8860B?style=flat&logoColor=white)](https://global.goldenjacketsbrazil.com)
 [![Brazil](https://img.shields.io/badge/🇧🇷_Brazil-FFD700?style=flat&logoColor=black)](https://goldenjacketsbrazil.com)
-[![UK](https://img.shields.io/badge/🇬🇧_UK-FFD700?style=flat&logoColor=black)](https://goldenjackets.co.uk)
-[![Chile](https://img.shields.io/badge/🇨🇱_Chile-FFD700?style=flat&logoColor=black)](https://goldenjackets.cl)
-[![Poland](https://img.shields.io/badge/🇵🇱_Poland-FFD700?style=flat&logoColor=black)](https://goldenjackets.pl)
-[![France](https://img.shields.io/badge/🇫🇷_France-FFD700?style=flat&logoColor=black)](https://goldenjackets.fr)
 [![India](https://img.shields.io/badge/🇮🇳_India-FFD700?style=flat&logoColor=black)](https://goldenjackets.in)
+[![UK](https://img.shields.io/badge/🇬🇧_UK-FFD700?style=flat&logoColor=black)](https://goldenjackets.co.uk)
 [![USA](https://img.shields.io/badge/🇺🇸_USA-FFD700?style=flat&logoColor=black)](https://goldenjacketsus.com)
+[![Colombia](https://img.shields.io/badge/🇨🇴_Colombia-FFD700?style=flat&logoColor=black)](https://goldenjackets.co)
+[![Chile](https://img.shields.io/badge/🇨🇱_Chile-FFD700?style=flat&logoColor=black)](https://goldenjackets.cl)
+[![France](https://img.shields.io/badge/🇫🇷_France-FFD700?style=flat&logoColor=black)](https://goldenjackets.fr)
+[![Peru](https://img.shields.io/badge/🇵🇪_Peru-FFD700?style=flat&logoColor=black)](https://goldenjackets.pe)
+[![Poland](https://img.shields.io/badge/🇵🇱_Poland-FFD700?style=flat&logoColor=black)](https://goldenjackets.pl)
 [![Israel](https://img.shields.io/badge/🇮🇱_Israel-FFD700?style=flat&logoColor=black)](https://goldenjackets.co.il)
 [![Italy](https://img.shields.io/badge/🇮🇹_Italy-FFD700?style=flat&logoColor=black)](https://goldenjackets.it)
 [![Ecuador](https://img.shields.io/badge/🇪🇨_Ecuador-FFD700?style=flat&logoColor=black)](https://goldenjackets.ec)
 [![Belarus](https://img.shields.io/badge/🇧🇾_Belarus-FFD700?style=flat&logoColor=black)](https://goldenjackets.by)
+[![Belgium](https://img.shields.io/badge/🇧🇪_Belgium-FFD700?style=flat&logoColor=black)](https://goldenjackets.be)
 
 ---
 
