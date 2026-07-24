@@ -1,6 +1,8 @@
 👋 Hi, I'm Ricardo Gulias
 
-🧥 **Golden Jacket** — All active AWS certifications | **Founder & Global Lead** @ [Golden Jackets](https://global.goldenjacketsbrazil.com) | **AWStronaut** | **Kiro Ambassador**
+<a href="https://kiro.dev"><img src="./assets/KIRO_SocialBadge.png" width="80" alt="Kiro Ambassador" align="right" /></a>
+
+🧥 **Golden Jacket** — All active AWS certifications | **Founder & Global Lead** @ [Golden Jackets](https://global.goldenjacketsbrazil.com) | **AWStronaut** | **Kiro Ambassador** 🟣
 
 ---
 
